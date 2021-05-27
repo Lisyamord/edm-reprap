@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw
 #import math
 
 
-projname = 'mplate'
+projname = '/thisplate/'
  
 image = Image.open(projname + '.png')
 #image.show()
